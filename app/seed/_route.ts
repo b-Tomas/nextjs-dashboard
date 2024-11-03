@@ -1,4 +1,5 @@
 // NOTE: https://nextjs.org/learn/dashboard-app/setting-up-your-database
+// This used to be route.ts, but now it's _route.ts to avoid problems with it being empty
 // This file was used for seeding the database by navigating to http://localhost:3000/seed
 // Once populated, there is no need to run this file again.
 
